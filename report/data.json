@@ -1,0 +1,38 @@
+[
+    {
+        "width": 2,
+        "length": 2,
+        "depth": 2,
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "color": "0xfcba03"
+    },
+    {
+        "width": 1,
+        "length": 2,
+        "depth": 1,
+        "x": -0.5,
+        "y": 1,
+        "z": -0.5,
+        "color": "0x2d33d6"
+    },
+    {
+        "width": 3,
+        "length": 1,
+        "depth": 1,
+        "x": 1.5,
+        "y": 1,
+        "z": -0.5,
+        "color": "0xf54251"
+    },
+    {
+        "width": 2,
+        "length": 4,
+        "depth": 2,
+        "x": 2,
+        "y": 0,
+        "z": 0,
+        "color": "0x03fc28"
+    }
+]
